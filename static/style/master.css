@@ -7259,7 +7259,8 @@ h6 {
 }
 
 .blog-grid .blog-grid-pr-img {
-  padding: 7.5%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .blog-grid .blog-gird-info .meta {
