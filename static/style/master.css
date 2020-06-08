@@ -49,6 +49,10 @@ Table of contents
   height: 100%;
 }
 
+.lower-frame {
+  padding-top: 2.5%;
+}
+
 .m-btn-link {
   display: inline-block;
   text-decoration: none;
