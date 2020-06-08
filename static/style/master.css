@@ -7258,6 +7258,10 @@ h6 {
   left: 0px;
 }
 
+.blog-grid .blog-grid-pr-img {
+  padding: 7.5%;
+}
+
 .blog-grid .blog-gird-info .meta {
   background: #ffffff;
   padding: 0px 12px;
