@@ -372,6 +372,7 @@ mark {
 .h1,
 h1 {
   font-size: 50px;
+  padding-top: 25%;
 }
 
 @media (max-width: 991px) {
@@ -446,6 +447,7 @@ h5 {
 .h6,
 h6 {
   font-size: 18px;
+  padding-bottom: 3%;
 }
 
 /* ----------------------
