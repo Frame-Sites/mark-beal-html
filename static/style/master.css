@@ -591,11 +591,10 @@ h6 {
   font-weight: 600;
 }
 
-@media (min-width: 992px) {
-  .mob-header {
-    display: none;
-  }
+.mob-header {
+  display: none;
 }
+
 
 /* Side Menu
 -----------------------------*/
