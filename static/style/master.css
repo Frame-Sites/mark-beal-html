@@ -7088,8 +7088,8 @@ h6 {
 
 .portfolio-content .grid-item {
   padding: 10px;
-  width: calc(100% / 3);
-  float: left;
+  width: calc( (100% / 3) + 7.5);
+  /*float: left;*/
 }
 
 @media (max-width: 991px) {
