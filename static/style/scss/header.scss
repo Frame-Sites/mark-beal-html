@@ -109,7 +109,7 @@
 				    background: $px-theme;
 				    top: auto;
 				    bottom: 0;
-				    @include transition(ease all 0.35s); 
+				    @include transition(ease all 0.35s);
 			    }
 			    i {
 			    	font-size: 20px;
@@ -149,7 +149,7 @@
 		&.header-transparent {
 			background: transparent;
 			.fixed-header & {
-				background: $px-white;		
+				background: $px-white;
 			}
 		}
 		.navbar-brand {
@@ -225,7 +225,7 @@
 }
 
 
-/* Mobile 
+/* Mobile
 -----------------------------*/
 @include down-md {
 	.header-nav {
@@ -258,8 +258,8 @@
 			> li {
 				+ li {
 					.nav-link {
-						border-top: 1px solid #ddd;		
-					}		
+						border-top: 1px solid #ddd;
+					}
 				}
 			}
 			.nav-link {
