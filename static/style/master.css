@@ -442,6 +442,16 @@ h4 {
 .h5,
 h5 {
   font-size: 20px;
+  font-weight: normal;
+  color: #ffff;
+  padding-top: 3%;
+}
+
+@media (max-width: 767px) {
+  .h5,
+  h5 {
+    display: none;
+  }
 }
 
 .h6,
