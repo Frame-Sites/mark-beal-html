@@ -249,6 +249,10 @@ Table of contents
   height: 0px;
 }
 
+.icon-center{
+	text-align: center;
+}
+
 @keyframes pulse-border {
   0% {
     -moz-transform: scale(0.8);
